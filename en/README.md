@@ -1,365 +1,365 @@
 ![](https://storageapi.fleek.co/9768bd38-4fde-4528-b585-76b036f1fae7-bucket/img/hello/bb.png)
 
-# HelloDao简介
+#HelloDaoIntroduction
 
-> 在加密货币世界中，DAO一词代表Decentralized Autonomous Organization，即“分布式自治组织”，可以被描述为一个具特定规则的开源区块链协议，被挑选的成员会根据规则自动执行某些行动而过程无需要经由任何中介机构。
+> In the cryptocurrency world, the term DAO stands for Decentralized Autonomous Organization, or "distributed autonomous organization", which can be described as an open source blockchain protocol with specific rules, and selected members will automatically perform certain actions according to the rules The process does not need to go through any intermediaries.
 >
-> Dao的所有参与者不受法律合同的约束，而是以原生资产代币的形式进行奖励，帮助他们为一个共同目标而努力。通过共同投票决定社区的方向，并且受制于代码的不变法则。
+> All participants of Dao are not bound by legal contracts, but are rewarded in the form of native asset tokens to help them work towards a common goal. The direction of the community is determined by common voting and is subject to the immutable laws of the code.
 
-HelloDao是一个标准的DAO组织，旨在打造一个通用的元宇宙的虚拟身份协议，将各元宇宙世界连接起来。拥有一套完善的宇宙经济模型，为元宇宙居民提供了边玩边赚的虚拟工作，让虚拟和现实无限接近。
+HelloDao is a standard DAO organization that aims to create a universal metaverse virtual identity protocol to connect all metaverse worlds. With a complete set of cosmic economic models, it provides virtual jobs for the residents of the metaverse to earn while playing, making the virtual and reality infinitely close.
 
-# DAO治理
+# DAO governance
 
-> Hello DAO 中的成员资格来源于是否持有$DAO。成为 DAO 的成员后，就能获得投票权。除了投票权之外，成员还可以获得代币收益、DAO金库份额等，来作为他们做出贡献的回报。
+> Membership in Hello DAO comes from holding $DAO. Once you become a member of the DAO, you can get voting rights. In addition to voting rights, members can also receive token income, DAO treasury shares, etc. in return for their contributions.
 
 ![](https://www.hellodao.world/images/bg2.jpg)
 
 
-## 董事会 
+## Board of Directors 
 
-> 董事会是HelloDao治理的核心，加入董事会则成为社区核心治理成员，拥有发起提案的权利。
+> The board of directors is the core of HelloDao's governance. Joining the board of directors becomes a core governance member of the community and has the right to initiate proposals.
 >
-> HelloDao董事会将始终保持金库透明，支取投票的社区监督运作方式来运作。
+> The HelloDao board of directors will always keep the treasury transparent and operate in a community-supervised way of drawing and voting.
 >
-> HelloDao董事会所有成员将保持匿名及隐私安全性。
+> All members of HelloDao's board of directors will remain anonymous and secure.
 
-### 加入方式
+### How to join
 
-- 创始人及早期核心贡献者。
-- 所有早期对社区做出贡献的用户。
-- 质押锁仓$DAO。
+- Founder and early core contributor.
+- All users who contributed to the community early.
+- Pledge to lock $DAO.
 
-### 成员职责
+### Member Responsibilities
 
-- 可参与社区治理，发起建设性的提案或重大事项的投票表决。
-- 可参与或协助HelloDao项目的开发。
-- 可推广并管理社区，为社区提供服务。
+- Participate in community governance, initiate constructive proposals or vote on major issues.
+- Participate in or assist in the development of the HelloDao project.
+- Promote and manage the community and provide services to the community.
 
-### 金库作用
+### Vault function
 
-- 激励董事会成员。
-- 支付项目必须的开发、网络服务、营销、合约审计等费用。
-- 回购DAO以稳定价格。
-- 金库私钥早期由创始人保管，游戏主网上线后将改为多签方式由董事会核心成员共同管理
+- Motivate board members.
+- Pay for the development, network services, marketing, contract auditing and other expenses necessary for the project.
+- Repurchase DAO to stabilize the price.
+- The private key of the treasury was kept by the founder in the early stage. After the mainnet of the game is launched, it will be changed to a multi-signature method and jointly managed by the core members of the board of directors
 
-### 创始人及团队
+### Founder and Team
 
-- 创始人Roy从事开发行业15年，于2017年接触区块链，是标准的技术宅。
-- 创立HelloDao的初衷是为了建立一个数据可信的元宇宙世界，也是Roy的执念。
-- HelloDao是一个迎接未来的实验，并非投资建议。
-- 在初期，几个志同道合的伙伴们承担起了社区建设。
-- 团队目标坚定，用5年时间打磨出一个数据级别的元宇宙。
-- 创始人会在项目推广阶段进行KYC。
+- The founder Roy has been in the development industry for 15 years, and he came into contact with the blockchain in 2017. He is a standard technology house.
+- The original intention of creating HelloDao is to build a metaverse world with reliable data, which is also Roy's obsession.
+- HelloDao is an experiment for the future, not investment advice.
+- In the early days, several like-minded partners undertook community building.
+- The team's goal is firm, and it took 5 years to polish up a data-level metaverse.
+- The founder will conduct KYC during the project promotion stage.
 
 ------
 
-### 治理通证  $DAO
+### Governance Token $DAO
 
-合约地址：0x02376E49a514F0e538c473D20E9C2151E2804Dea
+Contract address: 0x02376E49a514F0e538c473D20E9C2151E2804Dea
 
-> 旨在让全社区成员参与决策，通过去中心化的方式对HelloDao进行透明、公平的监督管理。
+> It aims to allow all members of the community to participate in decision-making, and to conduct transparent and fair supervision and management of HelloDao in a decentralized manner.
 
-|   发行主网    | 协议  | 供应总量 |          Token用途           | 供应规则 | 供应条件 |
-| :-----------: | ----- | :------: | :--------------------------: | :------: | :------: |
-| 币安智能链BSC | ERC20 |  100000  | 社区治理(涵盖游戏及项目治理) |  一次性  |  预分配  |
+| Issuing Mainnet | Agreement | Total Supply | Token Purpose | Supply Rules | Supply Conditions |
+| :------------: | ----- | :------: | :------------------- -------: | :------: | :------: |
+| Binance Smart Chain BSC | ERC20 | 100000 | Community governance (including game and project governance) | One-time | Pre-allocation |
 
 ```Mermaid
 pie
- title $DAO 最大供应量 10万
- "种子轮" : 30000
+ title $DAO Maximum Supply 100,000
+ "Seed Round" : 30000
  "IDO" : 10000
- "团队预留" : 10000
- "添加流动性" : 50000
-```
+ "Team Reserve" : 10000
+ "Add Liquidity" : 50000
+````
 
-- #### 额度分配
+- #### Quota allocation
 
 
-| 份额 | 说明       | 发行周期       | 初始价格       | 通缩规则       | 释放条件   | 用途                     |
-| ---- | ---------- | -------------- | -------------- | -------------- | ---------- | ------------------------ |
-| 30%  | 种子轮     | 3轮            | 0.006 BNB 起始 | 剩余并入IDO    | 每周释放5% | 游戏研发                 |
-| 10%  | IDO        | 1周            | 0.02 BNB 固定  | 剩余并入流动性 | 立即释放   | 建立流动性               |
-| 10%  | 创始人预留 | 无             | 由市场决定     | 无             | 立即释放   | 早期治理、$DAO回购       |
-| 50%  | 添加流动性 | 游戏主网上线后 | 由市场决定     | 无             | 无         | uniswap<br />pancakeswap |
+| Shares | Description | Issuance Period | Initial Price | Deflation Rules | Release Conditions | Uses |
+| ---- | ---------- | -------------- | -------------- | --- ----------- | ---------- | ------------------------ |
+| 30% | Seed round | 3 rounds | 0.006 BNB start | The remainder is merged into IDO | 5% released weekly | Game development |
+| 10% | IDO | 1 week | 0.02 BNB fixed | remaining incorporated into liquidity | immediate release | build liquidity |
+| 10% | Founder's Reserve | None | Determined by the Market | None | Immediate Release | Early Governance, $DAO Buyback |
+| 50% | Add liquidity | After the mainnet launch | Determined by the market | None | None | uniswap<br />pancakeswap |
 
-天使轮资金用途细则：
+Details of the use of angel round funds:
 
-- 开发人员工资(核心)
-- 技术服务费用(非核心开发)
-- NFT插画设计(原创)
-- 游戏素材、模型、商业引擎购买等
-- 网络服务费用(如：节点、平台、上币等)
-- 营销成本
+- Developer Salary (Core)
+- Technical service fee (non-core development)
+- NFT illustration design (original)
+- Game materials, models, commercial engine purchases, etc.
+- Network service fees (eg: node, platform, listing, etc.)
+- Marketing costs
 
-天使轮资金监督方式：
+Angel round fund supervision method:
 
-- 天使轮所募集的BNB将存入专项钱包地址
-- 天使轮用户可通过TP钱包，将专项地址设置为观察钱包
-- 上述所需经费的每一笔使用，都将及时公示到社区
+- The BNB raised by the angel round will be deposited into a special wallet address
+- Angel round users can set the special address as the observation wallet through the TP wallet
+- Every use of the above required funds will be announced to the community in a timely manner
 
-风险兜底
+Take risks
 
-- 如遇黑客攻击、其它不可抗力等因素，可使用DAO金库(专项钱包)余额回购$DAO。
+- In case of hacker attack, other force majeure and other factors, you can use the balance of the DAO treasury (special wallet) to repurchase $DAO.
 
-# Hello星球
+#helloplanet
 
-> HelloDao首款元宇宙游戏，让拥有虚拟身份的成员，登陆太空探索地外星球，并成为第一批星际移民。
+> HelloDao's first metaverse game, allowing members with virtual identities to land in space to explore extraterrestrial planets and become the first interstellar immigrants.
 >
-> Hello星球将在5年内分阶段性推出。Hello星球的特点在于对未来的尊重，通过严谨的逻辑和宇宙观来描述元宇宙，同时也侧重于宇宙经济的探索体验，让用户在虚拟世界打工、经商、生存，更深入的解读元宇宙。
+> Hello Planet will be rolled out in phases over 5 years. Hello Planet is characterized by its respect for the future, describing the metaverse through rigorous logic and cosmology, and at the same time focusing on the exploration experience of the cosmic economy, allowing users to work, do business, and survive in the virtual world, and interpret the metaverse more deeply.
 
-## 故事背景
+## story background
 
-> 2065年人类开始了大规模的火星移民，人类进入星际经济时代。因此提早进入火星城市，进行土地开发、农业及经商成为了最大的资本快车道。大批商人、从业者开始预定星际船票，去往新世界生活。
+> In 2065, human beings began to colonize Mars on a large scale, and human beings entered the era of interstellar economy. Therefore, early entry into the Mars city, land development, agriculture and business has become the largest capital fast lane. A large number of businessmen and practitioners began to book interstellar ferry tickets to live in the new world.
 >
-> 然而通往新世界的门票是如此难得，全世界仅有的几艘飞船即便每日不停的载客，也仅能运送少数乘客去达火星。大部分人终将留在地球终老。于是人类开始研究和探索通过虚拟现实设备，远程操控火星上的机器人或其他物种，从而在精神和思想上进行着“星际移民”。
+> However, tickets to the new world are so rare that the few spacecraft in the world, even if they carry passengers every day, can only transport a few passengers to Mars. Most people will stay on earth forever. So humans began to study and explore to remotely control robots or other species on Mars through virtual reality equipment, so as to carry out "interstellar migration" in spirit and thought.
 >
-> 新世界的诞生，和旧世界的变革，逐渐形成了鲜明的反差。但是战争和掠夺永远都是人类生存的主题。火星资源的开发权争夺，地球物种的统治权替换，新旧世界在这之后的几百年里汇流交集，为人类的命运开启了新的篇章。
+> The birth of the new world and the transformation of the old world gradually formed a sharp contrast. But war and looting will always be themes of human existence. The struggle for the right to develop resources on Mars and the replacement of the dominance of species on Earth. The old and new worlds converged in the next few hundred years, opening a new chapter for the destiny of mankind.
 
-## 游戏篇章
+## Game Chapter
 
-> 通过不同的篇章，将元宇宙不同时期的发展形态呈现给玩家。游戏也将因篇章的不同而开发出主线和独立分叉。
+> Through different chapters, the development forms of the metaverse in different periods are presented to players. The game will also develop a mainline and independent forks due to different chapters.
 
-### 星际篇
+### Interstellar
 
-- 虚实结合：探索
+- Combination of virtual and real: exploration
 
-  - 机器先锋
+  - Machine Pioneer
 
-    > 为保障人类能够在火星很好的生存，一支机器人队伍率先登陆火星开始了城市建设。这些机器人可以与地球上的VR设备链接并接受指令。
+    > In order to ensure that human beings can survive well on Mars, a team of robots first landed on Mars and started city construction. These robots can link with VR equipment on Earth and receive commands.
 
-  - 猿住民
+  - Ape inhabitants
 
-    > 随着更多机器人被莫名生物的袭击和破坏，火星上变得愈加危险。那些原住民有着与地球猿类一样的特征，但它们展示出惊人的力量，人类制造的机器人根本无法抵御它们的攻击，正在建设的城市被大规模破坏。
+    > Mars becomes more dangerous as more robots are attacked and destroyed by unknown creatures. Those aboriginal people have the same characteristics as the apes of the earth, but they display amazing strength, the robots made by humans are simply unable to resist their attacks, and the cities under construction are destroyed on a large scale.
 
-  - 战狗
+  - War Dogs
 
-    > 第一批被人类改造基因并结合了机械装置的战狗，它们健壮而强大。人类期望通过战狗稳定局势，并找出火星猿的栖息之地。
+    > The first war dogs to be genetically engineered by humans and combined with mechanical devices, they are robust and powerful. Humans expect war dogs to stabilize the situation and find out where the Martian ape lives.
     
-  - 类熊
+  - Bear-like
 
-    > 那些被火星猿驯服的熊(这样称呼它们是因为跟地球的熊十分相似)，它们在战狗强大武器和咬合力的攻击下毫发无损，它们坚硬的皮毛能抵御住任何伤害。
+    > Those bears that were tamed by Martian apes (so called because of their resemblance to Earth's bears) survived the dog's powerful weapons and bites unscathed, and their hard coats resisted any damage.
 
-  - 新人类
+  - new humans
 
-    > 战狗对火星猿的威慑让人类看到了基因改造的威力，狂热组织不顾舆论压力，培育出了具有强大战斗基因的新人类。这些新人类一部分被派往火星执行任务，一部分留在了地球作为秘密武器。新人类也许是战胜火星熊的唯一办法。
+    > The deterrence of the war dog to the Martian ape made humans see the power of genetic modification, and the fanatical organization ignored the pressure of public opinion and cultivated a new human with powerful fighting genes. Some of these new humans were sent to Mars on missions, and some remained on Earth as secret weapons. New humans may be the only way to defeat the Martian bears.
 
-  - 火星城市
+  - Martian City
 
-    > 
+    >
 
-- 虚实相生：新文明
+- Reality and Falsehood: New Civilization
 
-- 虚即是实：永生
+- What Is Real: Immortality
 
-### 番外篇
+### Extra Story
 
-- 末世猎人
+- Doomsday Hunter
 
-### 星际篇路线图
+### Interstellar Roadmap
 
-> 先导篇 →  机器先锋 → 猿住民 → 战狗 → 新人类 → 火星城市
+> Prelude → Machine Pioneer → Ape Citizen → War Dog → New Human → Martian City
 
-- **先导篇**
+- **Introduction**
 
-- [x] 初版网站及Dapp上线 √
+- [x] Initial website and Dapp launched √
 
-- [x] 首批社区志愿者加入 √
+- [x] The first batch of community volunteers to join √
 
-- ~~在Polygon网络上启动~~ ✗
+- ~~Launch on Polygon Network~~ ✗
 
-- [x] 在BSC网络上启动 √
-
-  
-
-- **机器先锋**
-
-- [x] 数量：10000。
-
-- [x] 打印登机牌：获得虚拟角色和飞船座位。
-
-- [x] 资源准备：预备开启船舱，通过船票质押、角色质押获得$Hello的奖励。
+- [x] Launch on BSC network √
 
   
 
-- **猿住民**
+- **Machine Pioneer**
 
-- [x] 捕捉工具：ROBOT  && HUMAN、$Hello。
+- [x] Quantity: 10000.
 
-- [x] 捕捉条件：消耗一定数量的$Hello并质押ROBOT  && HUMAN。
+- [x] Print boarding pass: get avatar and spaceship seat.
 
-- [x] 捕捉成功：捕捉成功后ROBOT  && HUMAN会因能量耗尽而被销毁，从而获得全新的 APE NFT。
-
-  
-
-- **战狗**
-
-- [x] 数量：10000。
-
-- [x] 打印登机牌：获得虚拟角色和飞船座位。
-
-- [x] 资源准备：预备开启船舱，通过船票质押、角色质押获得$Hello的奖励。
+- [x] Resource preparation: Prepare to open the cabin, and get $Hello rewards through ticket pledge and character pledge.
 
   
 
-- **类熊**
+- **Ape dwellers**
 
-- [x] 捕捉工具：APE、$Hello。
+- [x] Capture tools: ROBOT && HUMAN, $Hello.
 
-- [x] 捕捉条件：消耗一定数量的$Hello并质押APE NFT。
+- [x] Capture condition: Consume a certain amount of $Hello and pledge ROBOT && HUMAN.
 
-- [x] 捕捉成功：捕捉成功后获得全新的 Bear NFT。
-
-  
-
-- **新人类**
-
-- [x] 培育工具：DOG、$Hello。
-
-- [x] 培育条件：消耗一定数量的$Hello并质押DOG NFT。
-
-- [x] 培育成功：通过提取(销毁)DOG基因注入到新人类胚胎，从而获得全新的 HUMAN  NFT。
+- [x] Capture successfully: ROBOT && HUMAN will be destroyed due to energy exhaustion after successful capture, thus obtaining a brand new APE NFT.
 
   
 
+- **War Dogs**
 
-- **火星城市**
-- 火星登录：通过燃烧$Hello及抵押船票的方式，将获得火星城市土地。
-- 火星探索：开启角色探险，根据角色类型进行火星探索，收集种子及各种神秘矿产。
-- 火星生存：开启火星农场，通过种植火星植物及农作物经营农场。
-- 火星建设：开启火星家园，从火星农业升级到火星工业，将解锁更多科技，拥有更多建筑。
-- 火星战争：开启火星公会，通过资源掠夺来扩大自己的领土和公会，甚至统一整个火星。
+- [x] Quantity: 10000.
+
+- [x] Print boarding pass: get avatar and spaceship seat.
+
+- [x] Resource preparation: Prepare to open the cabin, and get $Hello rewards through ticket pledge and character pledge.
 
   
 
-- [ ] 星际扩张篇
+- **Bear class**
 
-- 敬请期待...
+- [x] Capture tools: APE, $Hello.
+
+- [x] Capture condition: Consume a certain amount of $Hello and stake APE NFT.
+
+- [x] Captured successfully: Get a brand new Bear NFT after successful capture.
+
+  
+
+- **New Humans**
+
+- [x] Breeding tools: DOG, $Hello.
+
+- [x] Cultivation conditions: Consume a certain amount of $Hello and stake DOG NFT.
+
+- [x] Breeding success: By extracting (destroying) the DOG gene and injecting it into a new human embryo, a brand new HUMAN NFT is obtained.
+
+  
+
+
+- **Mars City**
+- Mars Login: By burning $Hello and mortgaging the boat ticket, you will get Mars city land.
+- Mars Exploration: Start character exploration, explore Mars according to the character type, collect seeds and various mysterious minerals.
+- Mars Survival: Open a Mars farm and run a farm by growing Mars plants and crops.
+- Mars Construction: Open Mars home, upgrade from Mars agriculture to Mars industry, will unlock more technologies and have more buildings.
+- Mars War: Open a Mars guild, expand your own territory and guild through resource plunder, and even unify the entire Mars.
+
+  
+
+- [ ] Interstellar Expansion
+
+- Stay tuned...
 
 ------
 
-### 游戏通证  $HELLO
+### Game Token $HELLO
 
-> 是游戏内交互所需的必要通证。创始人零预留，全部投入游戏及社区。$Hello将仅作为游戏通证使用，其价值将在游戏内体现，因此社区不会提供外部流动性，以避免鲸鱼或投机者对游戏经济的损害。
+> is a necessary token for in-game interaction. The founder has zero reservations, and all of them are invested in the game and the community. $Hello will only be used as a game token and its value will be reflected within the game, so the community will not provide external liquidity to avoid damage to the game economy by whales or speculators.
 
-- ### Token 协议标准
+- ### Token protocol standard
 
-|   发行主网    | 协议  |  供应总量  |      Token用途       | 供应规则 | 供应条件 |
-| :-----------: | ----- | :--------: | :------------------: | :------: | :------: |
-| 币安智能链BSC | ERC20 | 1000000000 | 游戏内消耗，永久通缩 | 按需Mint | Dao投票  |
+| Issuing Mainnet | Agreement | Total Supply | Token Purpose | Supply Rules | Supply Conditions |
+| :------------: | ----- | :------------: | :----------------- -: | :------: | :------: |
+| Binance Smart Chain BSC | ERC20 | 1000000000 | In-game consumption, permanent deflation | On-demand Mint | Dao voting |
 
 ![](https://www.hellodao.world/images/bg1.jpg)
 
-- ### 额度分配
-| 份额 | 说明                         | 发行周期 | 通缩规则 | 用途                                          |
-| ---- | ---------------------------- | -------- | -------- | --------------------------------------------- |
-| 1%   | 空投         | **移民准备** 阶段 | 无 | 空投给早期的社区贡献者 |
-| 5%   | 投入到 **移民篇 - 起飞准备** 阶段 | 分450天释放 | 无 | 作为星舰船票质押奖励                         |
-| 20% | 投入到 **移民篇 - 资源准备** 阶段 | 分3年释放 | 无 | 作为$DAO质押奖励     |
-| 15% | 投入到 **火星篇** 各阶段 | 立即释放 | 剩余销毁 | 游戏中赚取 |
-| 59%  | 预留给游戏其它篇章和阶段 | 暂不发行 | 剩余销毁 | 暂无 |
+- ### Quota allocation
+| Shares | Description | Issuance Cycle | Deflation Rules | Uses |
+| ---- | ---------------------------- | -------- | ------ -- | -------------------------------------------------------- |
+| 1% | Airdrop | **Immigration Readiness** Stage | None | Airdrop to Early Community Contributors |
+| 5% | Invest in **Immigration Chapter - Preparing for Takeoff** | Released in 450 days | None | As a Starship Ticket Pledge Reward |
+| 20% | Invest in the **Immigration Chapter - Resource Preparation** stage | Released in 3 years | None | As a $DAO pledge reward |
+| 15% | Invest in each stage of **Mars Arc** | Immediate Release | Leftover Destruction | Earn in Game |
+| 59% | Reserved for other chapters and stages of the game | Not released yet | Remaining destroyed | None |
 
 
 ```Mermaid
 pie
- title $HELLO游戏通证  10亿
- "空投" : 8000000
- "船票质押奖励" : 40000000
- "提供流动性" : 200000000
- "游戏中赚取" : 80000000
- "为新游戏预留" : 480000000
-```
+ title $HELLO Game Token 1 Billion
+ "Airdrop" : 8000000
+ "Boat Ticket Pledge Reward" : 40000000
+ "Provide liquidity" : 200000000
+ "Earn in Game" : 80000000
+ "Reserved for new games" : 480000000
+````
 
-### Hello Token 用途说明
+### Hello Token usage description
 
-- 仅作为元宇宙游戏内的经济通证，官方不会建立其与外部交互的通道。
-- 创始人及所有核心成员无预留，全部Token均投放给社区及游戏。
-- 不对标或参考其它通证，不建议作为投资工具。
-- 仅通过$DAO和社区任务获得，无其它方式。
+- Only as an economic token in the metaverse game, the official will not establish a channel for its interaction with the outside world.
+- The founder and all core members have no reservations, and all tokens are distributed to the community and games.
+- Do not target or refer to other tokens, and it is not recommended as an investment tool.
+- Only available through $DAO and community quests, no other way.
 
 ------
 
-# Hello NFT 
+# Hello NFT
 
-> 游戏中的诸多核心元素均以NFT的形式映射到虚拟的元宇宙世界里，拥有NFT则意味着你在元宇宙世界里拥有的资源，如：登机牌，角色，土地以及建筑物等。
+> Many core elements in the game are mapped to the virtual metaverse world in the form of NFTs. Owning NFTs means you have resources in the metaverse world, such as boarding passes, characters, land and buildings.
 
-## Pass NFT 
+## Pass NFT
 
-通往Hello元宇宙世界的门票，通过持有星舰登机牌，即可获得一个虚拟角色，将是你在Hello星球上的虚拟身份。
+Tickets to the Hello Metaverse World, by holding a starship boarding pass, you can get a virtual character, which will be your virtual identity on the Hello planet.
 
 ![](https://storageapi.fleek.co/9768bd38-4fde-4528-b585-76b036f1fae7-bucket/img/hello/pass.png)
 
-### Pass NFT  - 协议
+### Pass NFT - Protocol
 
-| 协议名称   | 总量  | 发行主网      | 协议标准 | 发行方式 | 初始价格 | 释放规则 | 释放条件 |
+| Protocol Name | Amount | Issuing Mainnet | Protocol Standards | Issuing Method | Initial Price | Release Rules | Release Conditions |
 | ---------- | ----- | ------------- | -------- | -------- | -------- | -------- | -------- |
-| 星舰通行证 | 20000 | 币安智能链BSC | ERC721   | 免费Mint | 免费     | 阶段性   | 白名单   |
+| Starship Pass | 20000 | Binance Smart Chain BSC | ERC721 | Free Mint | Free | Phased | Whitelist |
 
-### Pass NFT  - 属性
+### Pass NFT - Properties
 
-| 属性名称       | 作用                                          | 类别                                                         | 生成方式       |
-| -------------- | --------------------------------------------- | ------------------------------------------------------------ | -------------- |
-| Mark<br />地标 | 元宇宙中的城市<br />虚拟角色的出生点          | Olympus，Mawrth，Hellas，Amazonis，Arabia，Cydonia，Syrtis<br />每个类别代表一座虚拟城市，阶段性开启城市 | 自选           |
-| Race<br />种族 | 元宇宙中的虚拟角色<br />角色拥有3种不同的属性 | Human，Robot，Dog，Ape，Bear<br />每个类别都代表了一种角色，角色属性详见 Hero NFT 说明。 | 自选           |
-| Rank<br />等级 | 飞船舱位等级<br />更高级的舱位将拥有更多权益  | 货仓、标准舱、经济舱、商务舱、优等舱、头等舱                 | 打印登机牌获得 |
+| Attribute Name | Function | Category | Generated |
+| -------------- | ---------------------------------- ----------- | -------------------------------------- ---------------------- | -------------- |
+| Mark<br />Landmarks| Cities in the Metaverse<br /> Birthplaces of avatars| Olympus, Mawrth, Hellas, Amazonis, Arabia, Cydonia, Syrtis<br />Each category represents a virtual city, staged Open City | Optional |
+| Race<br />Race|A virtual character in the metaverse<br />A character has 3 different attributes|Human, Robot, Dog, Ape, Bear<br />Each category represents a character, a character See the description of Hero NFT for details. | Optional |
+| Rank<br />Class | Spaceship class<br />Higher class will have more benefits | Cargo, Standard, Economy, Business, Premium, First | Print boarding pass to get |
 
 ------
 
-## Hero NFT 
+## Hero NFTs
 
-> 元宇宙中的虚拟角色，可用来参与HelloDao所有游戏或合作项目。
+> A virtual character in the metaverse that can be used to participate in all HelloDao games or cooperative projects.
 
 ![](https://storageapi.fleek.co/9768bd38-4fde-4528-b585-76b036f1fae7-bucket/img/hello/hero.jpg)
 
-### Hero NFT  -  协议
+### Hero NFT - Protocol
 
-| 名称     | 发行主网      | 协议   | 发行方式                             | 手续费                        | 手续费用途      | 释放条件 |
-| -------- | ------------- | ------ | ------------------------------------ | ----------------------------- | --------------- | -------- |
-| 游戏英雄 | 币安智能链BSC | ERC721 | INO(首次NFT发行)<br />打印登机牌获得 | 按IDO单价<br />获取相应的$DAO | 作为DAO初始资金 | 白名单   |
+| Name | Issuing Mainnet | Agreement | Issuing Method |
+| -------- | ------------- | ------ | ------------------- ----------------- | ----------------------------- | -- ------------- | -------- |
+| Game Hero | Binance Smart Chain BSC | ERC721 | INO (First NFT Issuance)<br />Get by printing the boarding pass | Get the corresponding $DAO at the unit price of IDO<br /> | As the initial capital of DAO | Whitelist |
 
-### Hero NFT  -  属性
+### Hero NFT - Properties
 
-| 属性名称               | 作用                                               | 数值边界               | 数值加成                |
-| ---------------------- | -------------------------------------------------- | ---------------------- | ----------------------- |
-| Power<br />力量        | 在游戏中发挥作用，如：<br />影响探索任务和奖励结算 | 最小：5<br />最大：100 | 猿 + 15<br />人 + 5     |
-| Intelligence<br />智力 | 在游戏中发挥作用，如：<br />影响科技等级和奖励结算 | 最小：5<br />最大：100 | 机器人 + 15<br />人 + 5 |
-| Stamina<br />耐久      | 在游戏中发挥作用，如：<br />影响PVP和奖励结算      | 最小：5<br />最大：100 | 熊 + 15<br />人 + 5     |
+| Attribute Name | Function | Numerical Boundary | Numerical Bonus |
+| ---------------------- | ---------------------------- ------------------------ | ---------------------- | -- --------------------- |
+| Power<br />Power | Play a role in the game, such as:<br />Affects exploration missions and reward settlement | Min: 5<br />Max: 100 | Ape + 15<br />Human + 5 |
+| Intelligence<br />Intelligence | Play a role in the game, such as:<br />Affects tech levels and reward settlement | Min: 5<br />Max: 100 | Robot + 15<br />Human + 5 |
+| Stamina<br />Durable | Play a role in the game, such as:<br />Affects PvP and reward settlement | Min: 5<br />Max: 100 | Bear + 15<br />People + 5 |
 
 ## Land NFT
 
-> 星球土地是Hello元宇宙里的核心，拥有星球上的一块Land，即拥有在元宇宙世界里的栖息之地。可以在其上建设房屋，养殖农场，开采矿石，甚至制造武器发动战争。为保障Land的稀缺和珍贵性，星球上每个城市的Land数量将被限制在最大200。
+> Planet Land is the core of Hello Metaverse, owning a piece of Land on the planet, that is, having a habitat in the Metaverse world. You can build houses, raise farms, mine ore, and even create weapons to wage war on it. To ensure the scarcity and preciousness of Land, the number of Lands in each city on the planet will be limited to a maximum of 200.
 
 ![](https://storageapi.fleek.co/9768bd38-4fde-4528-b585-76b036f1fae7-bucket/img/hello/land.png)
 
-### Land NFT  - 协议
+### Land NFT - Protocol
 
-| 协议名称 | 总量     | 发行主网      | 协议标准 | 发行方式              | 初始价格 | 释放规则 | 释放条件 |
-| -------- | -------- | ------------- | -------- | --------------------- | -------- | -------- | -------- |
-| 星球土地 | 200/city | 币安智能链BSC | ERC721   | 质押登机牌+燃烧$HELLO | 0.25BNB  | 立刻     | 无       |
+| Protocol Name | Amount | Issuing Mainnet | Protocol Standards | Issuing Method | Initial Price | Release Rules | Release Conditions |
+| -------- | -------- | ------------- | -------- | -------- ------------- | -------- | -------- | -------- |
+| Planet Land | 200/city | Binance Smart Chain BSC | ERC721 | Staking Boarding Pass + Burn $HELLO | 0.25BNB | Immediately | None |
 
-### Land NFT  - 属性
+### Land NFT - Properties
 
-| 属性名称 | 作用                                                         | 数值                         | 数值加成                                     |
-| -------- | ------------------------------------------------------------ | ---------------------------- | -------------------------------------------- |
-| 面积     | 在平面地图上，一块Land可由至少1个(1X1)的方格组成<br />更多方格将组成更大面积土地 | 最小：1x1<br />最大：10x10   | 质押登机牌时间越长<br />可选择的Land面积越大 |
-| 资源     | 包含金银铜铁、木材、水、甚至岩浆<br />通过资源组合进行工具制造和农场建设 | 最小：1<br />最大：100000000 | 角色属性将影响资源获取数量                   |
-| 科技     | Land内的探测器数量决定了科技等级<br />科技等级越高，则解锁的工具和建筑种类越多 | 最小：1<br />最大：10        | 初始均为1                                    |
+| attribute name | function | value | value bonus |
+| -------- | ---------------------------------------- -------------------- | ---------------------------- | -------------------------------------------- |
+| Area| On a flat map, a land can be made up of at least 1 (1X1) square<br />More squares will make up a larger area|Min: 1x1<br />Max: 10x10 | Pledge boarding The longer the card time<br />the larger the land area that can be selected|
+| Resources | Contains gold, silver, copper, iron, wood, water, and even magma<br />Tool making and farm construction through resource combinations | Min: 1<br />Max: 100000000 | Character attributes will affect the amount of resources acquired |
+| Technology | The number of detectors in the Land determines the technology level<br />The higher the technology level, the more tools and building types can be unlocked | Min: 1<br />Max: 10 | The initial value is 1 |
 
 ![](https://storageapi.fleek.co/9768bd38-4fde-4528-b585-76b036f1fae7-bucket/img/hello/ccc.png)
 
 ------
 
-# Hello猎人
+#Hello Hunter
 
-> Hello猎人是一款与hello星球相互独立的RPG冒险游戏。
+> Hello Hunter is an RPG adventure game independent of Hello Planet.
 >
-> Hello猎人的故事背景发生在人类移民火星200年后，地球因为超级人工智能机器人诺亚的觉醒叛变，以及生态资源枯竭而变得千疮百孔。玩家将通过扮演虚拟角色(猎人)，开着自己打造组装的机甲战车，在荒凉的末日大陆进行冒险和PVP。
+> The story background of Hello Hunter takes place 200 years after humans immigrated to Mars. The earth has become riddled with holes due to the awakening and mutiny of the super artificial intelligence robot Noah and the depletion of ecological resources. Players will play a virtual role (hunter) and drive a mecha chariot built and assembled by themselves to carry out adventures and PVP in the desolate apocalypse continent.
 >
 
-> # 更多NFT及游戏玩法，敬请期待...
+> # More NFTs and gameplay, stay tuned...
 
 ------
 
-# Hello星链
+# Hello star chain
 
-> Hello星链是一条连接元宇宙的公链。使命是让链接元宇宙与真实世界的数据，以实现在虚拟世界的“数据可信”。通过星链与元宇宙世界互通后，达成一个更趋于稳定、真实的虚拟世界。
+> Hello Star Chain is a public chain connecting the Metaverse. The mission is to link the data of the metaverse and the real world, so as to achieve "data credibility" in the virtual world. After the intercommunication between Starlink and the metaverse world, a more stable and real virtual world is achieved.
 
