@@ -1,10 +1,8 @@
-# 简介
+# 中文
 
 ## 项目背景
 
-Hello DAO 是一款基于 BSC 构建的免费游戏，具有完全免费且公平的初始发行版。我们的官方网站上总共有 20,000 个 Genesis HelloNFT 可供免费铸造。所有权允许持有者访问未来的游戏内功能，以及独特的赠品和空投。
-Hello Planet是我们的核心游戏，玩家可以通过持有HelloNFT来占领自己的土地，建立自己的领土，享受星际田园并获得奖励！未来，玩家甚至可以组建自己的军队来掠夺别人的领地，或者发动星际战争！
-Hello DAO 将与传统游戏开发公司合作，架起区块链与传统游戏的桥梁，让区块链游戏得到广泛应用。
+Hello DAO 是一款基于 BSC 构建的免费游戏，具有完全免费且公平的初始发行版。我们的官方网站上总共有 20,000 个 Genesis HelloNFT 可供免费铸造。所有权允许持有者访问未来的游戏内功能，以及独特的赠品和空投。 Hello Planet是我们的核心游戏，玩家可以通过持有HelloNFT来占领自己的土地，建立自己的领土，享受星际田园并获得奖励！未来，玩家甚至可以组建自己的军队来掠夺别人的领地，或者发动星际战争！ Hello DAO 将与传统游戏开发公司合作，架起区块链与传统游戏的桥梁，让区块链游戏得到广泛应用。
 
 ## 团队背景
 
@@ -12,7 +10,6 @@ Hello DAO 将与传统游戏开发公司合作，架起区块链与传统游戏�
 
 ## 媒体
 
-官网：https://www.hellodao.world/
+官网：https://www.hellodao.world
+
 推特：https://twitter.com/hellodaoworld
-Medium：https://medium.com/@hellodaoworld
-Discord：http://discord.gg/eJ8Zry9cp7
